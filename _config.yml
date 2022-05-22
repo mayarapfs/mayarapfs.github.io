@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mayara Felix"
   avatar           : "profile.png"
-  bio              : "I am an economist researching topics in Development, Trade, and Labor."
+  bio              : "I am an economist researching topics in <span style="color:maroon">Development text</span>, Trade, and Labor."
   location         : 
-  employer         :
+  employer         : "Harvard University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=SEb2rv0AAAAJ"
-  email            :
+  email            : "mfelix@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
