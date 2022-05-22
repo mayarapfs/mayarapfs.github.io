@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mayara Felix"
   avatar           : "profile.png"
-  bio              : "Economist researching topics in Development, Trade, and Labor"
+  bio              : "I am an economist researching topics in <p style="color:maroon;">Development</p>, <p style="color:maroon;">Trade</p>Trade, and <p style="color:maroon;">Labor</p>."
   location         : 
   employer         :
   pubmed           : 
