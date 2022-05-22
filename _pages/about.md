@@ -17,9 +17,7 @@ My research interests are in <span style="color:maroon">Development</span>, <spa
 
 Publications
 --
-<font size="-0.5">
-<a href="url">[Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia](files/MTO_ms_AER.pdf)</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. Appendices here. American Economic Review 2021, 111 (12): 3827-71. Summary video here.
-</font>
+<a href="url">[Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia](https://github.com/mayarapfs/mayarapfs.github.io/blob/81d6cb4ff28210455dc3f612ba37955fa07578e1/files/MTO_ms_AER.pdf)</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. Appendices here. American Economic Review 2021, 111 (12): 3827-71. Summary video here.
 
 Working Papers
 --
