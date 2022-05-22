@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mayara Felix"
   avatar           : "profile.png"
-  bio              : "I am an economist researching topics in *Development*, Trade, and Labor."
+  bio              : "I am an economist researching topics in Development, Trade, and Labor."
   location         : 
-  employer         : "Harvard University"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=SEb2rv0AAAAJ"
   email            : "mfelix@mit.edu"
