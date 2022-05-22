@@ -16,7 +16,7 @@ I received a PhD in Economics from MIT in June 2021, and am currently a Postdoct
 Publications
 --
 <font size="-0.5">
-<a href="https://mayarapfs.github.io/files/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. Appendices here. American Economic Review 2021, 111 (12): 3827-71.<a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank"> Summary video here.</a>
+<a href="https://mayarapfs.github.io/files/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/files/MTO_appendix.pdf" target="_blank">Appendices here</a>. <em>American Economic Review 2021</em>, 111 (12): 3827-71.<a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank"> Summary video here.</a>
 </font>
 
 Working Papers
