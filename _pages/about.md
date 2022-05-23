@@ -28,10 +28,10 @@ Working Papers
 Selected Work in Progress
 --
 
-A Simple Model of Labor Market Concentration under Comparative Disadvantage
+Trade Liberalization and Modern Slavery: Evidence from Labor Inspections in Brazil.
 
-Trade Liberalization and Modern Slavery: Evidence from Labor Inspections in Brazil
+A Simple Model of Trade and Labor Market Concentration under Comparative Disadvantage.
 
 A Quasi-Experimental Approach to Identifying Labor Market Boundaries: Evidence from Brazilian Workers, with Sean Wang.
 
-Do Public Sector Jobs Crowd Out Talent from More Productive Activities? Evidence from Brazilian Civil Service Exams
+Do Public Sector Jobs Crowd Out Talent from More Productive Activities? Evidence from Brazilian Civil Service Exams.
