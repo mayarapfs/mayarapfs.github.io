@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I am an economist interested in <span style="color:maroon">Development</span>, <span style="color:maroon">Trade</span>, and <span style="color:maroon">Labor</span>. <br> MIT Econ PhD '21.
+I am an economist interested in <span style="color:maroon">Development</span>, <span style="color:maroon">Trade</span>, and <span style="color:maroon">Labor</span>. <br> I received a PhD in Economics from MIT in June 2021. Here is my <a href="https://mayarapfs.github.io/files/Mayara_Felix_CV_May_2022.pdf" target="_blank">CV</a>.
 
 ### Current and Upcoming Affiliations
 
