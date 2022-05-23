@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: # ""
+title: " "
 excerpt: ""
 author_profile: true
 redirect_from: 
 - /about/
 - /about.html
 ---
-
-<br>
 
 ## Current and Upcoming Appointments
 
