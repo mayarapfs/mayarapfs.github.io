@@ -10,7 +10,7 @@ redirect_from:
 
 I am an economist interested in <span style="color:maroon">Development</span>, <span style="color:maroon">Trade</span>, and <span style="color:maroon">Labor</span>. <br> MIT Econ PhD '21.
 
-### Current and Ppcoming Affiliations
+### Current and Upcoming Affiliations
 
 2021-2022: Harvard University, Postdoc at <a href="https://epod.cid.harvard.edu" target="_blank">EPoD</a>.
   
