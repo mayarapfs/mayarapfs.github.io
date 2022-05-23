@@ -8,6 +8,8 @@ redirect_from:
 - /about.html
 ---
 
+I am an economist researching topics in <span style="color:maroon">Development</span>, <span style="color:maroon">Trade</span>Trade, and <span style="color:maroon">Labor</span>. MIT Econ PhD '21.
+
 ## Affiliations
 
 2021-2022: Harvard University, Postdoc at HKS.
