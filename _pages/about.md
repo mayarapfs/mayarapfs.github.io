@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: #" "
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-## Current and Upcoming Appointments
+## Affiliations
 
 2021-2022: Harvard University, Postdoc at HKS.
 
