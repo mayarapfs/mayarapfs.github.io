@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I am an economist researching topics in <span style="color:maroon">Development</span>, <span style="color:maroon">Trade</span>, and <span style="color:maroon">Labor</span>. MIT Econ PhD '21.
+I am an economist interested in <span style="color:maroon">Development</span>, <span style="color:maroon">Trade</span>, and <span style="color:maroon">Labor</span>. MIT Econ PhD '21.
 
 ## Affiliations
 
