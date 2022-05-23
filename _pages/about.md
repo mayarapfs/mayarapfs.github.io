@@ -7,9 +7,7 @@ redirect_from:
 - /about/
 - /about.html
 ---
-
- 
-Affiliation
+Affiliations
 --
 2021-2022: Harvard University, Postdoc at HKS.
 
