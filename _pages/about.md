@@ -13,11 +13,8 @@ I am an economist interested in <span style="color:maroon">Development</span>, <
 ### Current and upcoming affiliations
 
 2021-2022: Harvard University, Postdoc at <a href=https://epod.cid.harvard.edu" target="_blank"EPoD</a>.
-
 2022-2023: Princeton University, Postdoc at <a href=https://ies.princeton.edu" target="_blank"IES</a>.
-
 2023-2024: Yale University, Postdoc at <a href=https://cowles.yale.edu" target="_blank"Cowles</a>.
-
 2024-2025 onwards: Yale University, Assistant Professor of Economics and Global Affairs, Department of Economics and Jackson School of Global Affairs.
 
 ### Publications
