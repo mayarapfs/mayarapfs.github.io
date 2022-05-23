@@ -8,10 +8,12 @@ redirect_from:
 - /about.html
 ---
 
-I received a PhD in Economics from MIT in June 2021, and am currently a Postdoctoral Research Fellow at the Harvard Kennedy School of Government.
-
-I'll be joining the faculty of Yale University in July 2024 as an Assistant Professor of Economics and Global Affairs, in a joint appointment between the Department of Economics and the Jackson School of Global Affairs. Before then I will spend a year at Princeton University as an IES Fellow, followed by a year at Yale as a Cowles Postdoctoral Associate.
-
+Affiliations
+--
+2021-2022: Harvard University, Postdoc at HKS
+2022-2023: Princeton University, Postdoc at IES
+2023-2024: Yale University, Postdoc at Cowles
+2024-2025 onwards: Yale University, Assistant Professor of Economics and Global Affairs, Department of Economics and Jackson School of Global Affairs
 
 Publications
 --
