@@ -11,9 +11,12 @@ redirect_from:
 Affiliations
 --
 2021-2022: Harvard University, Postdoc at HKS
+
 2022-2023: Princeton University, Postdoc at IES
+
 2023-2024: Yale University, Postdoc at Cowles
-2024-2025 onwards: Yale University, Assistant Professor of Economics and Global Affairs, Department of Economics and Jackson School of Global Affairs
+
+2024-2025: Yale University, Assistant Professor of Economics and Global Affairs, Department of Economics and Jackson School of Global Affairs
 
 Publications
 --
