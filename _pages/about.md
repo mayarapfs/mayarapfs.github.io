@@ -18,7 +18,7 @@ I am an economist interested in <span style="color:maroon">Development</span>, <
 
 2023-2024: Yale University, Postdoc at <a href="https://cowles.yale.edu" target="_blank">Cowles</a>.
   
-2024-2025 onwards: Yale University, Assistant Professor of Economics and Global Affairs, Department of Economics and Jackson School of Global Affairs.
+2024-2025 onwards: Yale University, Assistant Professor of Economics and Global Affairs, <a href="https://economics.yale.edu" target="_blank">Department of Economics</a> and <a href="https://jackson.yale.edu" target="_blank">Jackson School of Global Affairs</a>.
 
 ### Publications
 
