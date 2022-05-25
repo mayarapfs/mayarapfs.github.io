@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Mayara Felix"
+title                    : null
 title_separator          : # "-"
 name                     : &name "Mayara Felix"
 description              : &description "personal description"
