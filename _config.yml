@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : 
-title_separator          : 
-name                     : 
-description              : 
+title                    : null
+title_separator          : null
+name                     : null
+description              : null
 url                      : https://www.mayarafelix.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : 
 repository               : "mayarapfs/mayarapfs.github.io"
