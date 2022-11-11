@@ -24,7 +24,7 @@ I am an economist interested in <span style="color:maroon">Development</span>, <
 
 ### Working Papers
 
-<a href="https://mayarapfs.github.io/papers/Felix_JMP.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a> (Job Market Paper). Slides <a href="https://mayarapfs.github.io/papers/20221025_JMP_slides.pdf" target="_blank">here</a>. Submitted.
+<a href="https://mayarapfs.github.io/papers/Felix_JMP.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a> (Job Market Paper). Slides <a href="https://mayarapfs.github.io/papers/20221025_JMP_slides.pdf" target="_blank">here</a>. Under review.
 
 <a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">Labor Market Consequences of Domestic Outsourcing: Evidence from Legalization in Brazil</a>, with Michael Wong.
 
