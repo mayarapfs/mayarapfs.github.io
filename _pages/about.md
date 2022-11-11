@@ -32,7 +32,7 @@ I am an economist interested in <span style="color:maroon">Development</span>, <
 
 ### Selected Work in Progress
 
-A Simple Model of Trade and Labor Market Concentration under Comparative Disadvantage.
+Labor Market Concetration in a Ricardian World.
 
 Trade Liberalization and Modern Slavery: Evidence from Labor Inspections in Brazil.
 
