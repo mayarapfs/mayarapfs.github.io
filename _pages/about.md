@@ -34,8 +34,6 @@ Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in B
 
 Labor Market Concentration in a Ricardian World. <a href="https://mayarapfs.github.io/papers/ricardian_concentration.pdf" target="_blank">Slides here</a>.
 
-Strategic Econometrics, with Renjie Bao.
-
 ### Other Work
 
 <a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank">Online Appendix</a>. MIT Blueprint Labs Discussion Paper <a href="https://blueprintcdn.com/wp-content/uploads/2020/10/Blueprint-Labs-Discussion-Paper-2020.10-Felix.pdf" target="_blank">#2020.10</a>.
