@@ -28,4 +28,10 @@ I am an economist interested in <span style="color:maroon">Development</span>, <
 
 <a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">Labor Market Consequences of Domestic Outsourcing: Evidence from Legalization in Brazil</a>, with Michael Wong.
 
-<a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank">Online Appendix</a>. MIT Blueprint Labs Discussion Paper <a href="https://blueprintcdn.com/wp-content/uploads/2020/10/Blueprint-Labs-Discussion-Paper-2020.10-Felix.pdf" target="_blank">#2020.10</a>. Under review.
+### Selected Work in Progress
+
+<a href="https://mayarapfs.github.io/papers/modern_slavery_slides.pdf" target="_blank">Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil</a>.
+
+### Other Work
+
+<a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank">Online Appendix</a>. MIT Blueprint Labs Discussion Paper <a href="https://blueprintcdn.com/wp-content/uploads/2020/10/Blueprint-Labs-Discussion-Paper-2020.10-Felix.pdf" target="_blank">#2020.10</a>.
