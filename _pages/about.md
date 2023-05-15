@@ -24,15 +24,15 @@ I am an economist interested in <span style="color:maroon">Development</span>, <
 
 ### Working Papers
 
-<a href="https://mayarapfs.github.io/papers/Felix_JMP.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a> (Job Market Paper). Slides <a href="https://mayarapfs.github.io/papers/JMP_slides.pdf" target="_blank">here</a>. Under review.
+<a href="https://mayarapfs.github.io/papers/Felix_JMP.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a> (Job Market Paper). <a href="https://mayarapfs.github.io/papers/JMP_slides.pdf" target="_blank">Slides</a>. Under review.
 
 <a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">Labor Market Consequences of Domestic Outsourcing: Evidence from Legalization in Brazil</a>, with Michael Wong.
 
 ### Selected Work in Progress
 
-Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil. <a href="https://mayarapfs.github.io/papers/modern_slavery_slides.pdf" target="_blank">Slides here</a>.
+Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil. <a href="https://mayarapfs.github.io/papers/modern_slavery_slides.pdf" target="_blank">Slides</a>.
 
-Labor Market Concentration in a Ricardian World. <a href="https://mayarapfs.github.io/papers/ricardian_concentration.pdf" target="_blank">Slides here</a>.
+Labor Market Concentration in a Ricardian World. <a href="https://mayarapfs.github.io/papers/ricardian_concentration.pdf" target="_blank">Slides</a>.
 
 ### Other Work
 
