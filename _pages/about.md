@@ -20,7 +20,7 @@ I am an economist interested in <span style="color:maroon">Development</span>, <
 
 ### Publications
 
-<a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Online Appendix</a>. <b><em>American Economic Review</em></b> 2021, 111 (12): 3827-71. Summary video <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">here.</a>
+<a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Online Appendix</a>. <em>American Economic Review</em> 2021, 111 (12): 3827-71. Summary video <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">here.</a>
 
 ### Working Papers
 
