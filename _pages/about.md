@@ -30,7 +30,7 @@ I am an economist interested in <span style="color:maroon">Development</span>, <
 
 ### Selected Work in Progress
 
-Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil. <a href="https://mayarapfs.github.io/papers/modern_slavery_slides.pdf" target="_blank">Slides</a>.
+Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil.
 
 ### Other Work
 
