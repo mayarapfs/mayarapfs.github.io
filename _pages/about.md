@@ -30,7 +30,13 @@ I am an economist interested in <span style="color:maroon">Development</span>, <
 
 ### Selected Work in Progress
 
-Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil.
+Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil, with Guilherme Bayma.
+
+Trade, Market Structure, and Household Welfare: Evidence from Colombian Tariff-Quotas, with Jorge Florez-Acosta, Diego Jiménez-Hernández and Kasper Vrolijk.
+
+Strategic Econometrics, with Renjie Bao.
+
+Labor Market Concentration in a Ricardian World.
 
 ### Other Work
 
