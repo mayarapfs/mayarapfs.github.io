@@ -26,7 +26,7 @@ I am an economist interested in <span style="color:maroon">Development</span>, <
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a> (Job Market Paper). <a href="https://mayarapfs.github.io/papers/JMP_slides.pdf" target="_blank">Slides</a>. Revise and Resubmit at <em>American Economic Review</em>.
 
-<a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">Labor Market Consequences of Domestic Outsourcing: Evidence from Legalization in Brazil</a>, with Michael Wong.
+<a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">Labor Market Effects of Domestic Outsourcing: Evidence from Legalization in Brazil</a>, with Michael Wong.
 
 ### Selected Work in Progress
 
