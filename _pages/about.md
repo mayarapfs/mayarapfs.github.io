@@ -7,7 +7,6 @@ redirect_from:
 - /about/
 - /about.html
 ---
-
 I am an economist interested in <span style="color:maroon">Development</span>, <span style="color:maroon">Trade</span>, and <span style="color:maroon">Labor</span>. I received a PhD in Economics from MIT in June 2021. Here is my <a href="https://mayarapfs.github.io/files/Mayara_Felix_CV_Spring_2023.pdf" target="_blank">CV</a>.
 
 ### Current and Upcoming Affiliations
@@ -34,7 +33,7 @@ Trade, Market Structure, and Household Welfare: Evidence from Colombian Tariff-Q
 
 Strategic Econometrics, with Renjie Bao.
 
-Labor Market Concentration in a Ricardian World.
+Ricardian Concentration.
 
 ### Other Work
 
