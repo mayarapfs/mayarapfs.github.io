@@ -31,7 +31,7 @@ Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in B
 
 Trade, Market Structure, and Household Welfare: Evidence from Colombian Tariff-Quotas, with Jorge Florez-Acosta, Diego Jiménez-Hernández and Kasper Vrolijk.
 
-Strategic Econometrics, with Renjie Bao.
+Bottom-up IV: A Conduct-proof Partial Equilibrium Estimator of Nested CES Preferences, with Renjie Bao.
 
 Ricardian Concentration.
 
