@@ -7,7 +7,7 @@ redirect_from:
 - /about/
 - /about.html
 ---
-I am an economist interested in <span style="color:maroon">Development</span>, <span style="color:maroon">Trade</span>, and <span style="color:maroon">Labor</span>. I received a PhD in Economics from MIT in June 2021. Here is my <a href="https://mayarapfs.github.io/files/Mayara_Felix_CV_Spring_2023.pdf" target="_blank">CV</a>.
+I am an economist interested in <span style="color:maroon">Development</span>, <span style="color:maroon">Trade</span>, and <span style="color:maroon">Labor</span>. I received a PhD in Economics from MIT in June 2021. Here is my <a href="https://mayarapfs.github.io/files/Mayara_Felix_CV_Summer_2023.pdf" target="_blank">CV</a>.
 
 ### Current and Upcoming Affiliations
 
@@ -32,8 +32,6 @@ Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in B
 Trade, Market Structure, and Household Welfare: Evidence from Colombian Tariff-Quotas, with Jorge Florez-Acosta, Diego Jiménez-Hernández and Kasper Vrolijk.
 
 Bottom-up IV: A Conduct-proof Partial Equilibrium Estimator of Nested CES Preferences, with Renjie Bao.
-
-Ricardian Concentration.
 
 ### Other Work
 
