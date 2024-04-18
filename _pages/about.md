@@ -23,13 +23,13 @@ I am an economist interested in <span style="color:maroon">Development</span>, <
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a> (Job Market Paper). <a href="https://mayarapfs.github.io/papers/JMP_slides.pdf" target="_blank">Slides</a>. Revise and Resubmit at <em>American Economic Review</em>.
 
-<a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">Labor Market Effects of Domestic Outsourcing: Evidence from Legalization in Brazil</a>, with Michael Wong.
+<a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">The Employment Effects of Domestic Outsourcing</a>, with Michael Wong.
 
 ### Selected Work in Progress
 
-Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil, with Guilherme Bayma.
-
 Trade, Market Structure, and Household Welfare: Evidence from Colombian Tariff-Quotas, with Jorge Florez-Acosta, Diego Jiménez-Hernández and Kasper Vrolijk.
+
+Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil, with Guilherme Bayma.
 
 Bottom-up IV: A Conduct-proof Partial Equilibrium Estimator of Nested CES Preferences, with Renjie Bao.
 
