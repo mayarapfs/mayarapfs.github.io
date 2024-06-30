@@ -26,10 +26,10 @@ My research is in the fields of development and international trade. I study the
 
 Trade, Market Structure, and Household Welfare: Evidence from Colombian Tariff-Quotas, with Jorge Florez-Acosta, Diego Jiménez-Hernández and Kasper Vrolijk.
 
-Wage transparency within and across firms: Experimental Evidence from Brazil, with Ieda Matavelli and
-Bobak Pakzad-Hurson. <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">Winner of pilot grant from J-PAL JOI Brasil</a>.
-
 Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil, with Guilherme Bayma.
+
+Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
+Bobak Pakzad-Hurson. <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">Winner of pilot grant from J-PAL JOI Brasil</a>.
 
 ### Other Work
 
