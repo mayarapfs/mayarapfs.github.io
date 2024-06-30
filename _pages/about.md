@@ -7,13 +7,10 @@ redirect_from:
 - /about/
 - /about.html
 ---
-I am an economist interested in <span style="color:maroon">Development</span>, <span style="color:maroon">Trade</span>, and <span style="color:maroon">Labor</span>. I received a PhD in Economics from MIT in June 2021. Here is my <a href="https://mayarapfs.github.io/files/Mayara_Felix_CV_Summer_2023.pdf" target="_blank">CV</a>.
 
-### Current and Upcoming Affiliations
+I am an Assistant Professor of Economics and Global Affairs at Yale, jointly appointed at the <a href="https://economics.yale.edu" target="_blank">Department of Economics</a> and the <a href="https://jackson.yale.edu" target="_blank">Jackson School of Global Affairs</a>. I am also an NBER Faculty Research Fellow, an EGC Faculty Affiliate, and an invited researcher at J-PAL Latin America.
 
-2023-2024: Yale University, Postdoc at <a href="https://cowles.yale.edu" target="_blank">Cowles</a>.
-  
-2024-2025 onwards: Yale University, Assistant Professor of Economics and Global Affairs, <a href="https://economics.yale.edu" target="_blank">Department of Economics</a> and <a href="https://jackson.yale.edu" target="_blank">Jackson School of Global Affairs</a>.
+My research is in the fields of development and international trade. I study the design and effects of policies intended to improve market efficiency in developing countries, such as import tariff reductions, free trade agreements, and outsourcing. My empirical work is primarily in Latin America, with additional work in Indonesia.
 
 ### Publications
 
@@ -23,7 +20,7 @@ I am an economist interested in <span style="color:maroon">Development</span>, <
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. <a href="https://mayarapfs.github.io/papers/JMP_slides.pdf" target="_blank">Slides</a>. Revise and Resubmit at <em>American Economic Review</em>.
 
-<a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">The Employment Effects of Domestic Outsourcing</a>, with Michael Wong. Submitted.
+<a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">The Employment Effects of Domestic Outsourcing</a>, with Michael Wong.
 
 ### Selected Work in Progress
 
