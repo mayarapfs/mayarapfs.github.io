@@ -31,8 +31,6 @@ Bobak Pakzad-Hurson. <a href="https://www.povertyactionlab.org/initiative-projec
 
 Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil, with Guilherme Bayma.
 
-Bottom-up IV: A Conduct-proof Partial Equilibrium Estimator of Nested CES Preferences, with Renjie Bao.
-
 ### Other Work
 
 <a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank">Online Appendix</a>. MIT Blueprint Labs Discussion Paper <a href="https://blueprintcdn.com/wp-content/uploads/2020/10/Blueprint-Labs-Discussion-Paper-2020.10-Felix.pdf" target="_blank">#2020.10</a>.
