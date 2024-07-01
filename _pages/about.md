@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor of Economics and Global Affairs at Yale, appointed at the <a href="https://economics.yale.edu" target="_blank">Department of Economics</a> and the <a href="https://jackson.yale.edu" target="_blank">Jackson School of Global Affairs</a>. I am also an NBER Faculty Research Fellow, an EGC Faculty Affiliate, and an invited researcher at J-PAL Latin America. Here is my <a href="https://mayarapfs.github.io/files/Mayara_Felix_CV_Summer_2024.pdf" target="_blank">CV</a>.
 
-My research is in the fields of development and international trade. I study the design and effects of policies intended to improve market efficiency in developing countries, such as import tariff reductions, free trade agreements, and outsourcing. A special focus of my research is firms' responses to these policies and their implications to competition. My work is primarily on Latin America, with additional work in Indonesia.
+My research is in the fields of development and international trade. I study policies intended to improve market efficiency in developing countries, such as import tariff reductions, free trade agreements, and outsourcing. A special focus of my research is firms' responses to these policies and their implications to competition. My work is primarily on Latin America, with additional work in Indonesia.
 
 ### Publications
 
