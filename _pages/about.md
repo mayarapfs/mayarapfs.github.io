@@ -12,10 +12,6 @@ I am an Assistant Professor of Economics and Global Affairs at Yale, appointed a
 
 My research is in the fields of development and international trade. I study policies intended to improve market efficiency in developing countries, such as import tariff reductions, free trade agreements, and outsourcing. A special focus of my research is firms' responses to these policies and their implications to competition. My work is primarily on Latin America, with additional work in Indonesia.
 
-### Publications
-
-<a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Online Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary video <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">here.</a>
-
 ### Working Papers
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. <a href="https://mayarapfs.github.io/papers/JMP_slides.pdf" target="_blank">Slides</a>. Revise and Resubmit at <em>American Economic Review</em>.
@@ -30,6 +26,10 @@ Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in B
 
 Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
 Bobak Pakzad-Hurson. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a>.
+
+### Publications
+
+<a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Online Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary video <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">here.</a>
 
 ### Other Work
 
