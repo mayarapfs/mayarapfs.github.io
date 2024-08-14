@@ -20,7 +20,7 @@ My research is in the fields of development and international trade. I study pol
 
 ### Selected Work in Progress
 
-Trade, Market Structure, and Household Welfare: Evidence from Colombian Tariff-Quotas, with Jorge Florez-Acosta, Diego Jiménez-Hernández and Kasper Vrolijk.
+Coordination Incentives of Tariff-Quota Agreements, with Jorge Florez-Acosta, Diego Jiménez-Hernández.
 
 Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil, with Guilherme Bayma.
 
