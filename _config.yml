@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : null
-title_separator          : null
+title                    : ""
+title_separator          : ""
 name                     : &name #""
 description              : &description #""
 url                      : https://www.mayarafelix.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
