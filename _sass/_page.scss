@@ -16,6 +16,11 @@
   }
 }
 
+.avatar {
+  width: 150px; /* Your desired width */
+  height: 150px; /* Your desired height */
+}
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
