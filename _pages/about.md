@@ -8,9 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-My research is in the fields of development and international trade. I study policies intended to improve market efficiency in developing countries, such as import tariff reductions, free trade agreements, and outsourcing. A special focus of my research is firms' responses to these policies and their implications to competition, either in labor or product markets. I therefore often borrow methods and insights from the fields of labor, public, and industrial organization.
-
-My work is primarily on Latin America, with additional work in Indonesia. Here is my <a href="https://mayarapfs.github.io/files/Mayara_Felix_CV_Summer_2024.pdf" target="_blank">CV</a>.
+My research is in the fields of development and international trade. I study policies intended to improve market efficiency in developing countries, such as import tariff reductions, free trade agreements, and outsourcing. A special focus of my research is firms' responses to these policies and their implications to competition, either in labor or product markets. I therefore often borrow methods and insights from the fields of labor, public, and industrial organization. My work is primarily on Latin America, with additional work in Indonesia. Here is my <a href="https://mayarapfs.github.io/files/Mayara_Felix_CV_Summer_2024.pdf" target="_blank">CV</a>.
 
 ### Working Papers
 
