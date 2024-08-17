@@ -245,6 +245,9 @@ defaults:
       author_profile: true
       share: true
 
+# Dark mode CSS
+css: ["/assets/css/darkmode.css"]
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
