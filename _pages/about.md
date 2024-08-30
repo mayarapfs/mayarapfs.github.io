@@ -30,8 +30,8 @@ Employment Valuation Surveys, with Ieda Matavelli [<a href="https://mayarapfs.gi
 
 ### Publications
 
-<a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Online Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">video.</a>
+<a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">video.</a>
 
 ### Other Work
 
-<a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank">Online Appendix</a>. MIT Blueprint Labs Discussion Paper <a href="https://blueprintcdn.com/wp-content/uploads/2020/10/Blueprint-Labs-Discussion-Paper-2020.10-Felix.pdf" target="_blank">#2020.10</a>.
+<a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank"> Appendix</a>. MIT Blueprint Labs Discussion Paper <a href="https://blueprintcdn.com/wp-content/uploads/2020/10/Blueprint-Labs-Discussion-Paper-2020.10-Felix.pdf" target="_blank">#2020.10</a>.
