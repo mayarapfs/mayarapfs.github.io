@@ -31,7 +31,7 @@ Bobak Pakzad-Hurson. Winner of pilot grant from <a href="https://www.povertyacti
 
 ## Original Data Collection
 
-Employment Valuation Surveys, with Ieda Matavelli. Winner of <a href=https://egc.yale.edu/opportunities/egc-incubation-fund" target="_blank">EGC Incubation Fund</a> grant.
+Employment Valuation Surveys, with Ieda Matavelli. Winner of <a href="https://egc.yale.edu/opportunities/egc-incubation-fund" target="_blank">EGC Incubation Fund</a> grant.
 
 ### Other Work
 
