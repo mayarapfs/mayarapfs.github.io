@@ -16,6 +16,10 @@ My research is in the fields of development and international trade. I study pol
 
 <a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">The Reallocation Effects of Domestic Outsourcing</a>, with Michael Wong.
 
+### Publications
+
+<a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Online Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary video <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">here.</a>
+
 ### Selected Work in Progress
 
 Coordination Incentives of Tariff-Quota Agreements, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
@@ -25,9 +29,9 @@ Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in B
 Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
 Bobak Pakzad-Hurson. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a>.
 
-### Publications
+## Original Data Collection
 
-<a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Online Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary video <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">here.</a>
+Employment Valuation Surveys, with Ieda Matavelli. Winner of <a href=https://egc.yale.edu/opportunities/egc-incubation-fund" target="_blank">EGC Incubation Fund</a> grant.
 
 ### Other Work
 
