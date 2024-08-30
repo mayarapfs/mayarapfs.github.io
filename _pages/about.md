@@ -29,9 +29,7 @@ Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in B
 Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
 Bobak Pakzad-Hurson. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a>.
 
-## Original Data Collection
-
-Employment Valuation Surveys, with Ieda Matavelli. Winner of <a href="https://egc.yale.edu/opportunities/egc-incubation-fund" target="_blank">EGC Incubation Fund</a> grant.
+Employment Valuation Surveys, with Ieda Matavelli [Original Data Collection Initiative]. Winner of <a href="https://egc.yale.edu/opportunities/egc-incubation-fund" target="_blank">EGC Incubation Fund</a> grant.
 
 ### Other Work
 
