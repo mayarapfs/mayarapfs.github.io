@@ -22,6 +22,8 @@ Coordination Incentives of Tariff-Quota Agreements, with Jorge Florez-Acosta and
 
 Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil, with Guilherme Bayma.
 
+The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva.
+
 Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
 Bobak Pakzad-Hurson. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a>.
 
