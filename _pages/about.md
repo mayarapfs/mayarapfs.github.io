@@ -8,7 +8,11 @@ redirect_from:
 - /about.html
 ---
 
-My research is in the fields of development and international trade. I study policies intended to improve market efficiency, such as import tariff reductions, free trade agreements, and outsourcing. A special focus of my research is firms' responses to these policies and their implications to competition, either in labor or product markets. I therefore often borrow methods and insights from the fields of labor, public, and industrial organization. My work is primarily on Latin America. Here is my <a href="https://mayarapfs.github.io/files/Mayara_Felix_CV_Summer_2024.pdf" target="_blank">CV</a>.
+My research is in the fields of development and international trade. I study policies intended to improve market efficiency, such as import tariff reductions, free trade agreements, and outsourcing. A special focus of my research is firms' responses to these policies and their implications to competition, either in labor or product markets. I therefore often borrow methods and insights from the fields of labor, public, and industrial organization. My work is primarily on Latin America. Here is my <a href="https://mayarapfs.github.io/files/Mayara_Felix_CV_Summer_2025.pdf" target="_blank">CV</a>.
+
+### Publications
+
+<a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">video.</a>
 
 ### Working Papers
 
@@ -16,11 +20,11 @@ My research is in the fields of development and international trade. I study pol
 
 <a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">The Reallocation Effects of Domestic Outsourcing</a>, with Michael Wong.
 
-### Selected Work in Progress
+<a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank"> Appendix</a>. M
+
+### Selected Research in Progress
 
 Coordination Incentives of Tariff-Quota Agreements, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
-
-Trade and Modern Slavery: Evidence from Local Exports and Labor Inspections in Brazil, with Guilherme Bayma.
 
 The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva.
 
@@ -28,12 +32,3 @@ Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, wi
 Bobak Pakzad-Hurson. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a>.
 
 Employment Valuation Surveys, with Ieda Matavelli [<a href="https://mayarapfs.github.io/files/Felix, Mayara - EGC_incubation_fund_proposal.pdf" target="_blank">Data Collection Initiative</a>]. Funded by the <a href="https://egc.yale.edu/opportunities/egc-incubation-fund" target="_blank">EGC Incubation Fund</a>.
-
-
-### Publications
-
-<a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">video.</a>
-
-### Other Work
-
-<a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank"> Appendix</a>. MIT Blueprint Labs Discussion Paper <a href="https://blueprintcdn.com/wp-content/uploads/2020/10/Blueprint-Labs-Discussion-Paper-2020.10-Felix.pdf" target="_blank">#2020.10</a>.
