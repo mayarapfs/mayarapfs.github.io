@@ -20,7 +20,7 @@ My research is in the fields of development and international trade. I study pol
 
 <a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">The Reallocation Effects of Domestic Outsourcing</a>, with Michael Wong.
 
-<a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank"> Appendix</a>. M
+<a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank"> Appendix</a>.
 
 ### Selected Research in Progress
 
