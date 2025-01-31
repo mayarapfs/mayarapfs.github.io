@@ -20,7 +20,6 @@ My research is in the fields of development and international trade. I study pol
 
 <a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">The Reallocation Effects of Domestic Outsourcing</a>, with Michael Wong.
 
-<a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank"> Appendix</a>.
 
 ### Selected Research in Progress
 
@@ -32,3 +31,7 @@ Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, wi
 Bobak Pakzad-Hurson. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a>.
 
 Employment Valuation Surveys, with Ieda Matavelli [<a href="https://mayarapfs.github.io/files/Felix, Mayara - EGC_incubation_fund_proposal.pdf" target="_blank">Data Collection Initiative</a>]. Funded by the <a href="https://egc.yale.edu/opportunities/egc-incubation-fund" target="_blank">EGC Incubation Fund</a>.
+
+### Other work
+
+<a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank"> Appendix</a>.
