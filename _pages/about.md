@@ -23,7 +23,7 @@ My research is in the fields of development and international trade. I study pol
 
 ### Selected Research in Progress
 
-Coordination Incentives of Tariff-Quota Agreements, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
+Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
 
 The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva.
 
