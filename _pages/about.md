@@ -18,7 +18,7 @@ My research is in the fields of development and international trade. I study pol
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. <a href="https://mayarapfs.github.io/papers/JMP_slides.pdf" target="_blank">Slides</a>. Revise and Resubmit at <em>American Economic Review</em>.
 
-<a href="https://mayarapfs.github.io/papers/outsourcing.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong.
+<a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>.
 
 
 ### Selected Research in Progress
