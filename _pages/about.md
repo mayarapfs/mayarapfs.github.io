@@ -18,7 +18,7 @@ My research is in the fields of development and international trade. I study pol
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. <a href="https://mayarapfs.github.io/papers/JMP_slides.pdf" target="_blank">Slides</a>. Revise and Resubmit at <em>American Economic Review</em>.
 
-<a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. (<small>_Note: This is a heavily revised version of <a href="https://elischolar.library.yale.edu/cowles-discussion-paper-series/2827/" target="_blank">The Reallocation Effects of Domestic Outsourcing_</small>).
+<a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. <small>_Note: This is a heavily revised version of <a href="https://elischolar.library.yale.edu/cowles-discussion-paper-series/2827/" target="_blank">The Reallocation Effects of Domestic Outsourcing_</small>.
 
 
 ### Selected Research in Progress
