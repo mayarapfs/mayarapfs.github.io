@@ -38,12 +38,12 @@ Employment Preferences of _Favela_ Residents, with Beatriz Marcoje, Ieda Matavel
 
 Employment Valuation Surveys, with Ieda Matavelli [<a href="https://mayarapfs.github.io/files/Felix, Mayara - EGC_incubation_fund_proposal.pdf" target="_blank">Data Collection Initiative</a>]. Funded by the <a href="https://egc.yale.edu/opportunities/egc-incubation-fund" target="_blank">EGC Incubation Fund</a>.
 
-### Older research
-
-<a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank"> Appendix</a>.
-
 ### Teaching
 
 ECON 703: Empirical Trade and Development: A Practitioner's Guide. PhD elective, <a href="https://yale.instructure.com/courses/106419"> Canvas</a>.
 
 ECON 3380b / GLBL 4102b: Emerging Markets. Undergraduate, <a href="https://courses.yale.edu/?details&srcdb=202601&crn=21905" target="_blank"> Catalog</a>.
+
+### Older research
+
+<a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank"> Appendix</a>.
