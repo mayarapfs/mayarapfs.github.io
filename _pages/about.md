@@ -30,7 +30,7 @@ The Origins of Structural Transformation, with Julieta Caunedo and Kristina Many
 Admins, Scale, and the Extensive Export Margin, with Rodimiro Rodrigo.
 
 Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
-Bobak Pakzad-Hurson. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a>.
+Bobak Pakzad-Hurson. <small> Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a> </small>.
 
 Employment Preferences of _Favela_ Residents, with Ieda Matavelli, Beatriz Marcoje, and Maria Clara Rodrigues da Silva.
 
