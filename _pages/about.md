@@ -18,7 +18,7 @@ My research is in the fields of development and international trade. I study pol
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. <a href="https://mayarapfs.github.io/papers/JMP_slides.pdf" target="_blank">Slides</a>. Revise and Resubmit at <em>American Economic Review</em>.
 
-<a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. <small> This is a heavily revised version of _The Reallocation Effects of Domestic Outsourcing_, presented at the NBER 2024 Development Fall meeting and available <a href="https://elischolar.library.yale.edu/cowles-discussion-paper-series/2827/" target="_blank">here</a> </small>.
+<a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. <small> This is a heavily revised version of _The Reallocation Effects of Domestic Outsourcing_, presented at the NBER 2024 Development Fall meeting and available <a href="https://elischolar.library.yale.edu/cowles-discussion-paper-series/2827/" target="_blank">here</a></small>.
 
 
 ### Selected Papers in Progress
@@ -30,7 +30,7 @@ The Origins of Structural Transformation, with Julieta Caunedo and Kristina Many
 Admins, Scale, and the Extensive Export Margin, with Rodimiro Rodrigo.
 
 Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
-Bobak Pakzad-Hurson. <small> Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a> </small>.
+Bobak Pakzad-Hurson.<small> Designed and implemented in collaboration with Brazil's Ministry of Planning. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a></small>.
 
 Employment Preferences of _Favela_ Residents, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues.
 
