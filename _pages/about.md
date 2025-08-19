@@ -44,7 +44,5 @@ Employment Valuation Surveys, with Ieda Matavelli [<a href="https://mayarapfs.gi
 
 ### Teaching
 
-ECON 703 - Empirical Trade and Development (PhD elective)
-ECON 3380b / GLBL 4102b - <a href="https://courses.yale.edu/?details&srcdb=202601&crn=21905" target="_blank"> Emerging Markets (Undergraduate, senior seminar)</a>.
-
-
+ECON 703: Empirical Trade and Development: A Practitioner's Guide. PhD elective, <a href="https://yale.instructure.com/courses/106419"> Canvas</a>.
+ECON 3380b / GLBL 4102b: Emerging Markets. Undergraduate, <a href="https://courses.yale.edu/?details&srcdb=202601&crn=21905" target="_blank"> Catalog</a>.
