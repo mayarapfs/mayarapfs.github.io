@@ -32,7 +32,7 @@ Admins, Scale, and the Extensive Export Margin, with Rodimiro Rodrigo.
 Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
 Bobak Pakzad-Hurson.<small> Designed and implemented in collaboration with Brazil's Ministry of Planning. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a></small>.
 
-Employment Preferences of _Favela_ Residents, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. <small> To be presented at ASSA 2026 Paper Session <a href="https://www.aeaweb.org/conference/2026/preliminary/1211?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lJITS1LT84sqgXwlHaXE4uL8ZAizJLUoF8hKSyxLzUkE8lMSoWpKMnNTIayyzNRykJFFBQVAAVMDpdpaXDDVPFwiEw" target="_blank">_Labor Markets in Developing Countries Paper_</a></small>.
+Employment Preferences of _Favela_ Residents, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. <small> To be presented at ASSA 2026 Paper Session <a href="https://www.aeaweb.org/conference/2026/preliminary/1211?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lJITS1LT84sqgXwlHaXE4uL8ZAizJLUoF8hKSyxLzUkE8lMSoWpKMnNTIayyzNRykJFFBQVAAVMDpdpaXDDVPFwiEw" target="_blank">_Labor Markets in Developing Countries_</a></small>.
 
 ### Data Collection Initiatives
 
