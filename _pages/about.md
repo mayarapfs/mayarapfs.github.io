@@ -20,7 +20,7 @@ Can policy make markets work better? My research examines policies intended to i
 
 <a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. NBER working paper <a href="https://www.nber.org/papers/w34172" target="_blank">34172</a>. <small> This is a heavily revised version of _The Reallocation Effects of Domestic Outsourcing_, presented at the NBER 2024 Development Fall meeting and available <a href="https://elischolar.library.yale.edu/cowles-discussion-paper-series/2827/" target="_blank">here</a></small>.
 
-<u>The Origins of Structural Transformation</u>, with Julieta Caunedo and Kristina Manysheva. _Draft available upon request_.
+The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva. _Draft available upon request_.
 
 ### Selected Papers in Progress
 
