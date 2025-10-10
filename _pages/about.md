@@ -8,7 +8,8 @@ redirect_from:
 - /about.html
 ---
 
-My research is in the fields of development and international trade. I study policies intended to improve market efficiency, such as import tariff reductions, free trade agreements, and outsourcing. A special focus of my research is firms' responses to these policies and their implications to competition, either in labor or product markets. I therefore often borrow methods and insights from the fields of labor, public, and industrial organization. My work is primarily on Latin America. Here is my <a href="https://mayarapfs.github.io/files/Felix_CV.pdf" target="_blank">CV</a>.
+Can policy make markets work better? My research examines policies intended to improve market efficiency in developing countries, such as tariff cuts, trade agreements, and major domestic reforms (e.g., on labor or taxation). I study how firms react to these policies and what that means for competition in both labor and product markets. My research is centered in the fields of development economics and international trade, but I often borrow tools and insights from other fields.<img width="468" height="66" alt="image" src="https://github.com/user-attachments/assets/94630d11-026a-4682-959e-5fcf8901a791" />
+ My work is primarily on Latin America. Here is my <a href="https://mayarapfs.github.io/files/Felix_CV.pdf" target="_blank">CV</a>.
 
 ### Publications
 
