@@ -35,7 +35,7 @@ Bobak Pakzad-Hurson.<small> Designed and implemented in collaboration with Brazi
 
 ### Data Collection Initiatives
 
-Employment Valuation Surveys, with Ieda Matavelli [<a href="https://mayarapfs.github.io/files/Felix, Mayara - EGC_incubation_fund_proposal.pdf" target="_blank">Data Collection Initiative</a>]. Funded by the <a href="https://egc.yale.edu/opportunities/egc-incubation-fund" target="_blank">EGC Incubation Fund</a>.
+<a href="https://mayarapfs.github.io/files/Felix, Mayara - EGC_incubation_fund_proposal.pdf" target="_blank">Employment Valuation Surveys</a>, with Ieda Matavelli . Funded by the <a href="https://egc.yale.edu/opportunities/egc-incubation-fund" target="_blank">EGC Incubation Fund</a>.
 
 ### Teaching
 
