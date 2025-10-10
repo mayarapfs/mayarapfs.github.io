@@ -43,6 +43,6 @@ ECON 703: Empirical Trade and Development: A Practitioner's Guide. PhD elective,
 
 ECON 3380b / GLBL 4102b: Emerging Markets. Undergraduate, <a href="https://courses.yale.edu/?details&srcdb=202601&crn=21905" target="_blank"> Catalog</a>.
 
-### Older research
+### Older Research
 
 <a href="https://mayarapfs.github.io/papers/Charters and suspensions_MS.pdf" target="_blank">Charter Schools and Suspensions: Evidence from Massachusetts Chapter 222</a>. <a href="https://mayarapfs.github.io/papers/Charters and suspensions_Appendix.pdf" target="_blank"> Appendix</a>.
