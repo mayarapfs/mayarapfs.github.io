@@ -29,14 +29,14 @@ Employment Preferences of _Favela_ Residents, with Beatriz Marcoje, Ieda Matavel
 Wage Gap Disclosure in the Tropics, with Ieda Matavelli and
 Bobak Pakzad-Hurson. _Draft coming soon_.
 
+Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
+Bobak Pakzad-Hurson.<small> Designed and implemented with Brazil's Ministry of Planning. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a></small>.
+
 Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
 
 Admins, Scale, and the Extensive Export Margin, with Rodimiro Rodrigo.
 
-### Data Collection and Partnered Interventions
-
-Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
-Bobak Pakzad-Hurson.<small> Designed and implemented with Brazil's Ministry of Planning. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a></small>.
+### Data Collection
 
 <a href="https://mayarapfs.github.io/files/Felix, Mayara - EGC_incubation_fund_proposal.pdf" target="_blank">Employment Valuation Surveys</a>, with Ieda Matavelli . Funded by the <a href="https://egc.yale.edu/opportunities/egc-incubation-fund" target="_blank">EGC Incubation Fund</a>.
 
