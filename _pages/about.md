@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-Can policy make markets work better? My research examines policies intended to improve market efficiency in developing countries, such as tariff cuts, trade agreements, and major domestic reforms. I study how firms react to these policies and how their response shapes market outcomes. My research is centered in the fields of development and international trade, with a special focus on on Latin America. Here is my <a href="https://mayarapfs.github.io/files/Felix_CV.pdf" target="_blank">CV</a>.
+Can policy make markets work better? My research examines policies intended to improve market efficiency in developing countries, such as tariff cuts, trade agreements, and major domestic reforms. I study how firms react to these policies and how their response shapes market outcomes. My research is centered in the fields of development and international trade, with a special focus on on Latin America.
 
 ### Publications
 
