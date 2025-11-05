@@ -31,6 +31,9 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
+       {% if author.cv %}
+      <li><a href="{{ author.cv }}" target="_blank"><i class="fas fa-fw fa-cv" aria-hidden="true"></i> CV</a></li>
+      {% endif %}
       {% if author.calendly %}
       <li><a href="{{ author.calendly }}" target="_blank"><i class="fas fa-fw fa-calendar" aria-hidden="true"></i> Office Hours</a></li>
       {% endif %}
