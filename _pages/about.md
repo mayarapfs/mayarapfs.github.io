@@ -22,19 +22,21 @@ The Origins of Structural Transformation, with Julieta Caunedo and Kristina Many
 
 <a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">video</a>.
 
-### Selected Papers in Progress
+### Papers in Progress (Drafting stage)
 
 Employment Preferences of _Favela_ Residents, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. <small> To be presented at ASSA 2026 Paper Session <a href="https://www.aeaweb.org/conference/2026/preliminary/1211?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lJITS1LT84sqgXwlHaXE4uL8ZAizJLUoF8hKSyxLzUkE8lMSoWpKMnNTIayyzNRykJFFBQVAAVMDpdpaXDDVPFwiEw" target="_blank">_Labor Markets in Developing Countries_</a></small>.
 
 Wage Gap Disclosure in the Tropics, with Ieda Matavelli and
 Bobak Pakzad-Hurson. _Draft coming soon_.
 
-Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
-Bobak Pakzad-Hurson.<small> Designed and implemented with Brazil's Ministry of Planning. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a></small>.
+### Selected Work in Progress (Slides stage)
 
 Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
 
 Admins, Scale, and the Extensive Export Margin, with Rodimiro Rodrigo.
+
+Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
+Bobak Pakzad-Hurson.<small> Designed and implemented with Brazil's Ministry of Planning. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a></small>.
 
 ### Teaching
 
