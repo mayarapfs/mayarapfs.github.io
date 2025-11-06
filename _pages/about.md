@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I study how firms react to policies intended to improve market efficiency in developing countries---such as tariff cuts, trade agreements, and major domestic reforms---hand how that response shapes markets. My research is centered in the fields of development and international trade, with a special focus on labor markets. My work is primarily on Latin America.
+I study how firms react to policies intended to improve market efficiency in developing countries---such as tariff cuts, trade agreements, and major domestic reforms---and how that response shapes markets. My work is primarily on firms and labor markets in Latin America.
 
 ### Publications
 
