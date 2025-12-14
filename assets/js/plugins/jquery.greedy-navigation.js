@@ -14,6 +14,11 @@ var breaks = [];
 
 function updateNav() {
 
+  // Exit if navigation doesn't exist
+  if ($nav.length === 0) {
+    return;
+  }
+
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
   // The visible list is overflowing the nav
