@@ -1,2 +1,23 @@
 _site/
 
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ruby/Bundler
+Gemfile.lock
+.bundle/
+vendor/
+
+# Jekyll
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
