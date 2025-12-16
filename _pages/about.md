@@ -34,14 +34,16 @@ Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Dieg
 
 Admins, Scale, and the Extensive Export Margin, with Rodimiro Rodrigo.
 
+### In the field
+
 Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
 Bobak Pakzad-Hurson.<small> Designed and implemented with Brazil's Ministry of Planning. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a></small>.
 
 ### Teaching
 
-ECON 703: Empirical Trade and Development: A Practitioner's Guide. PhD elective, <a href="https://yale.instructure.com/courses/106419"> Canvas</a>.
+ECON 7703: Empirical Trade and Development. PhD elective.
 
-ECON 3380b / GLBL 4102b: Emerging Markets. Undergraduate, <a href="https://courses.yale.edu/?details&srcdb=202601&crn=21905" target="_blank"> Catalog</a>.
+ECON 3380 / GLBL 4102 / EP&E 4314: Emerging Markets. Undergraduate.
 
 ### Older Research
 
