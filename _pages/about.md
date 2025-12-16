@@ -35,7 +35,7 @@ Admins, Scale, and the Extensive Export Margin, with Rodimiro Rodrigo.
 ### In the field
 
 Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
-Bobak Pakzad-Hurson.<small> Designed and implemented with Brazil's Ministry of Planning. Winner of pilot grant from <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a></small>.
+Bobak Pakzad-Hurson.<small> In partnership with Ministry of Planning. Winner of <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a></small> pilot grant.
 
 ### Teaching
 
