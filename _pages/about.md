@@ -19,7 +19,7 @@ Oligopsony in Dual Labor Markets. <span style="color:lightblue">_Draft available
 
 The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva. <span style="color:lightblue">_Draft available upon request_.</span>
 
-Employment Preferences of _Favela_ Residents, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. <small> In ASSA 2026 Paper Session <a href="https://www.aeaweb.org/conference/2026/preliminary/1211?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lJITS1LT84sqgXwlHaXE4uL8ZAizJLUoF8hKSyxLzUkE8lMSoWpKMnNTIayyzNRykJFFBQVAAVMDpdpaXDDVPFwiEw" target="_blank">_Labor Markets in Developing Countries_</a></small>. <span style="color:lightblue">_Draft available upon request_.</span>
+Employment Preferences of _Favela_ Residents, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. <span style="color:lightblue">_Draft available upon request_.</span>
 
 ### Publications
 
