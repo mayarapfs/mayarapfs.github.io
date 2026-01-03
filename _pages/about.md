@@ -19,7 +19,7 @@ The Origins of Structural Transformation, with Julieta Caunedo and Kristina Many
 
 Employment Preferences of _Favela_ Residents, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. <span style="color:lightblue">_Draft available upon request_.</span>
 
-Oligopsony in Dual Labor Markets. <span style="color:lightblue">_Draft available upon request_.</span>
+<a href="https://mayarapfs.github.io/papers/Oligopsony_dual_markets.pdf" target="_blank">Oligopsony in Dual Labor Markets.</a>
 
 ### Publications
 
