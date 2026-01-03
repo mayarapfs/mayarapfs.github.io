@@ -15,11 +15,11 @@ Can policy make markets work better? I study how firms react to policies intende
 
 <a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. NBER working paper <a href="https://www.nber.org/papers/w34172" target="_blank">34172</a>.
 
-The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva. <span style="color:lightblue">_Draft available upon request_.</span>
-
-Employment Preferences of _Favela_ Residents, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. <span style="color:lightblue">_Draft available upon request_.</span>
+<a href="https://mayarapfs.github.io/papers/favela_preferences_draft.pdf" target="_blank">Employment Preferences of _Favela_ Residents</a>, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues.
 
 <a href="https://mayarapfs.github.io/papers/Oligopsony_dual_markets.pdf" target="_blank">Oligopsony in Dual Labor Markets.</a>
+
+The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva. <span style="color:lightblue">_Draft available upon request_.</span>
 
 ### Publications
 
