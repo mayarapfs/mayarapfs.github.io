@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-I study policies intended to improve market efficiency in developing countries---such as tariff cuts, trade agreements, and major domestic reforms. My work is primarily on firms and labor markets in Latin America.
+I study policies intended to improve market efficiency in developing countries---such as tariff cuts, trade agreements, and major domestic reforms. My work is primarily in Latin America.
 
 ### Working Papers
 
