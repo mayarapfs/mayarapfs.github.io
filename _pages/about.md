@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-Can policy make markets work better? I study how firms react to policies intended to improve market efficiency in developing countries---such as tariff cuts, trade agreements, and major domestic reforms---and how that response shapes markets. My work is primarily on firms and labor markets in Latin America.
+I study policies intended to improve market efficiency in developing countries---such as tariff cuts, trade agreements, and major domestic reforms. My work is primarily on firms and labor markets in Latin America.
 
 ### Working Papers
 
