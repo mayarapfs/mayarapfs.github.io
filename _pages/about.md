@@ -17,7 +17,7 @@ I study policies intended to improve market efficiency in developing countries--
 
 <a href="https://mayarapfs.github.io/papers/favela_preferences_draft.pdf" target="_blank">Employment Preferences of _Favela_ Residents</a>, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. ASSA 2026 <a href="https://mayarapfs.github.io/papers/favela_preferences_slides.pdf" target="_blank">slides</a>.
 
-<a href="https://mayarapfs.github.io/papers/Oligopsony_dual_markets.pdf" target="_blank">Oligopsony in Dual Labor Markets.</a>
+<a href="https://mayarapfs.github.io/papers/Oligopsony_dual_markets.pdf" target="_blank">Oligopsony in Dual Labor Markets</a>.
 
 The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva. <span style="color:lightblue">_Draft available upon request_.</span>
 
@@ -28,7 +28,7 @@ The Origins of Structural Transformation, with Julieta Caunedo and Kristina Many
 ### Selected work in progress
 
 Wage Gap Disclosure in the Tropics, with Ieda Matavelli and
-Bobak Pakzad-Hurson. <span style="color:lightblue">_Draft coming soon_.</span>
+Bobak Pakzad-Hurson. <span style="color:lightblue">_Draft coming soon_.</span> <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a> (in Portuguese).
 
 Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
 
