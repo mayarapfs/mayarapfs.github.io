@@ -27,7 +27,7 @@ The Origins of Structural Transformation, with Julieta Caunedo and Kristina Many
 
 ### Selected work in progress
 
-Wage Gap Disclosure in the Tropics, with Ieda Matavelli and
+Wage Gap Disclosure in the Tropics, with Pablo Castro, Ieda Matavelli and
 Bobak Pakzad-Hurson. <span style="color:lightblue">_Draft coming soon_.</span> <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a> (in Portuguese).
 
 Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
