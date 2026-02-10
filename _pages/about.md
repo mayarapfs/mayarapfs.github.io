@@ -17,8 +17,6 @@ Well-functioning markets are key for economic development. How can policy make m
 
 <a href="https://mayarapfs.github.io/papers/favela_preferences_draft.pdf" target="_blank">Employment Preferences of _Favela_ Residents</a>, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues.
 
-<a href="https://mayarapfs.github.io/papers/Oligopsony_dual_markets.pdf" target="_blank">Oligopsony in Dual Labor Markets</a>.
-
 The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva. <span style="color:lightblue">_Draft available upon request_.</span>
 
 ### Publications
