@@ -15,11 +15,11 @@ Well-functioning markets are key for economic development. How can policy make m
 
 <a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. NBER working paper <a href="https://www.nber.org/papers/w34172" target="_blank">34172</a>.
 
-<a href="https://mayarapfs.github.io/papers/favela_preferences_draft.pdf" target="_blank">Employment Preferences of _Favela_ Residents</a>, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues.
-
 The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva. <span style="color:lightblue">_Draft available upon request_.</span>
 
 ### Publications
+
+<a href="https://mayarapfs.github.io/papers/favela_preferences_draft.pdf" target="_blank">Employment Preferences of _Favela_ Residents</a>, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues, forthcoming at _AEA Papers and Proceedings_.
 
 <a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">video</a>.
 
