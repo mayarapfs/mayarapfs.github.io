@@ -17,6 +17,9 @@ Well-functioning markets are key for economic development. How can policy make m
 
 The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva. <span style="color:lightblue">_Draft available upon request_.</span>
 
+Wage Gap Disclosure in the Tropics, with Pablo Castro, Ieda Matavelli and
+Bobak Pakzad-Hurson. <span style="color:lightblue">_Draft available upon request_.</span> <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a> (in Portuguese).
+
 ### Publications
 
 <a href="https://mayarapfs.github.io/papers/favela_preferences_draft.pdf" target="_blank">Employment Preferences of _Favela_ Residents</a>, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues, forthcoming at _AEA Papers and Proceedings_.
@@ -24,9 +27,6 @@ The Origins of Structural Transformation, with Julieta Caunedo and Kristina Many
 <a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">video</a>.
 
 ### Selected work in progress
-
-Wage Gap Disclosure in the Tropics, with Pablo Castro, Ieda Matavelli and
-Bobak Pakzad-Hurson. <span style="color:lightblue">_Draft coming soon_.</span> <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a> (in Portuguese).
 
 Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
 
