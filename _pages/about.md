@@ -18,7 +18,7 @@ Well-functioning markets are key for economic development. How can policy make m
 The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva. <span style="color:lightblue">_Draft available upon request_.</span>
 
 Wage Gap Disclosure in the Tropics, with Pablo Castro, Ieda Matavelli and
-Bobak Pakzad-Hurson. <span style="color:lightblue">_Draft available upon request_.</span> <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a> (in Portuguese).
+Bobak Pakzad-Hurson. <span style="color:lightblue">_Draft available upon request_.</span> <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a>.
 
 ### Publications
 
