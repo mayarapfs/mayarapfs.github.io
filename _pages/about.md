@@ -11,7 +11,7 @@ Well-functioning markets are key for economic development. How can policy make m
 
 ### Working Papers
 
-<a href="https://mayarapfs.github.io/papers/Felix_JMP_main_updated.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. <a href="https://mayarapfs.github.io/papers/Felix_JMP_appendix.pdf" target="_blank">Appendix</a>. March 2026. Revise and Resubmit at <em>American Economic Review</em>.
+<a href="https://mayarapfs.github.io/papers/Felix_JMP_main_updated.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. March 2026. <a href="https://mayarapfs.github.io/papers/Felix_JMP_appendix.pdf" target="_blank">Appendix</a>. Revise and Resubmit at <em>American Economic Review</em>.
 
 <a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. NBER working paper <a href="https://www.nber.org/papers/w34172" target="_blank">34172</a>.
 
