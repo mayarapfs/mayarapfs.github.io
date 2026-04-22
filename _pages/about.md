@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-I study how trade policy and major domestic reforms shape competition among firms and the organization of production, and how these changes affect workers in Latin America, especially in Brazil.
+I study how trade policy and major reforms shape competition among firms and the organization of production, and how these changes affect workers in Latin America, especially in Brazil.
 
 ### Working Papers
 
