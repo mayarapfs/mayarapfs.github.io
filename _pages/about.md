@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a development economist studying how policy shapes how firms compete and organize production, and how those changes affect labor markets in Latin America, with a particular focus on Brazil.
+I study how policy shapes competition among firms and the organization of production, and how these changes affect labor markets in Latin America, especially Brazil.
 
 ### Working Papers
 
