@@ -7,8 +7,6 @@ redirect_from:
 - /about.html
 ---
 
-Trade, Development, Labor.
-
 ### Working Papers
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP_main_updated.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. March 2026. <a href="https://mayarapfs.github.io/papers/Felix_JMP_appendix.pdf" target="_blank">Appendix</a>. NBER working paper <a href="https://www.nber.org/papers/w35018" target="_blank">35018</a>. Cowles discussion paper <a href="https://cowles.yale.edu/sites/default/files/2026-04/d2510.pdf">2510</a>. Revise and Resubmit at <em>American Economic Review</em>. (Resubmitted)
