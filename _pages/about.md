@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a development economist studying how policy changes and economic shocks shape firm behavior, production structure, and labor markets in Latin America, with a particular focus on Brazil.
+I am a development economist studying how policy shapes firm behavior, production structure, and labor markets in Latin America, with a particular focus on Brazil.
 
 ### Working Papers
 
