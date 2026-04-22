@@ -32,8 +32,6 @@ Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Dieg
 
 Admins, Scale, and the Extensive Export Margin, with Rodimiro Rodrigo.
 
-### In the field
-
 Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
 Bobak Pakzad-Hurson.<small> With Ministry of Planning. Winner of <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a> pilot grant.</small>
 
