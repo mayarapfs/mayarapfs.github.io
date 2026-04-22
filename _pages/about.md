@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-My research focused on trade policy and labor markets in Latin America, with a particular focus on Brazil.
+Trade, Development, Labor.
 
 ### Working Papers
 
