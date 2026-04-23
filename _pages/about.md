@@ -7,8 +7,8 @@ redirect_from:
 - /about.html
 ---
 
-I study firm responses to trade policy and major reforms in emerging markets, and how this response shapes the organization of production, enployment, and wages. I use administrative microdata and original data collection via survey experiments. My current work includes several projects on labor markets in Brazil and research on the effects of tariff-rate quotas on importer coordination in Colombia.
-         
+I study firm responses to trade policy and other sector/firm-targetting reforms in emerging markets, and how this response shapes the organization of production, enployment, and wages. I use administrative microdata and original data collection via survey experiments. My current work includes several projects on labor markets in Brazil and research on the effects of tariff-rate quotas on importer coordination in Colombia.
+
 ### Working Papers
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP_main_updated.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. March 2026. <a href="https://mayarapfs.github.io/papers/Felix_JMP_appendix.pdf" target="_blank">Appendix</a>. NBER working paper <a href="https://www.nber.org/papers/w35018" target="_blank">35018</a>. Cowles discussion paper <a href="https://cowles.yale.edu/sites/default/files/2026-04/d2510.pdf">2510</a>. Revise and Resubmit at <em>American Economic Review</em>. (Resubmitted)
