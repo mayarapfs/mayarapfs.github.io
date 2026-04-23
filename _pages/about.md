@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-I study firm responses to trade policy and major reforms in emerging markets, and how this response shapes the organization of production, enployment, and wages. I use administrative microdata and original data collection via survey experiments. My recent work includes several projects on labor markets in Brazil and research on the effects of tariff-rate quotas on importer coordination in Colombia.
+I study firm responses to trade policy and major reforms in emerging markets, and how this response shapes the organization of production, enployment, and wages. I use administrative microdata and original data collection via survey experiments. My current work includes several projects on labor markets in Brazil and research on the effects of tariff-rate quotas on importer coordination in Colombia.
          
 ### Working Papers
 
