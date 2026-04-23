@@ -15,14 +15,14 @@ I study firm responses to trade policy and other sector/firm-targetting reforms 
 
 <a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong. August 2025. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. NBER working paper <a href="https://www.nber.org/papers/w34172" target="_blank">34172</a>. <span style="color:lightblue">_Revision coming soon_.</span>
 
+<a href="https://mayarapfs.github.io/papers/favela_preferences_draft.pdf" target="_blank">Employment Preferences of _Favela_ Residents</a>, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. Cowles discussion paper <a href="https://cowles.yale.edu/sites/default/files/2026-04/d2519.pdf">2519</a>. <span style="color:lightblue">Forthcoming at _AEA Papers and Proceedings_.</span>
+
 <a href="https://mayarapfs.github.io/papers/Wage_Transparency_RDD.pdf" target="_blank">Wage Gap Disclosure in the Tropics</a>, with Pablo Castro, Ieda Matavelli and
 Bobak Pakzad-Hurson. <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a>. Cowles discussion paper <a href="https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3923&context=cowles-discussion-paper-series" target="_blank">2517</a>.
 
 The Origins of Structural Transformation, with Julieta Caunedo and Kristina Manysheva. <span style="color:lightblue">_Draft available upon request_.</span>
 
 ### Publications
-
-<a href="https://mayarapfs.github.io/papers/favela_preferences_draft.pdf" target="_blank">Employment Preferences of _Favela_ Residents</a>, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. Cowles discussion paper <a href="https://cowles.yale.edu/sites/default/files/2026-04/d2519.pdf">2519</a>. Forthcoming at _AEA Papers and Proceedings_.
 
 <a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">video</a>.
 
