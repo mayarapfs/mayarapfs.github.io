@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-Well-functioning markets are key for economic development. How can policy make markets work better? I study firm responses to trade policy and other sector/firm-targetting reforms in emerging markets, and how this response shapes the organization of production, enployment, and wages. I use administrative microdata and original data collection via survey experiments. My current work includes several projects on firms and labor markets in Brazil and research on the effects of tariff-rate quotas on importer coordination in Colombia.
+Well-functioning markets are key for economic development. Can policy make markets work better? I study firm responses to trade policy and other sector/firm-targetting reforms in emerging markets, and how this response shapes the organization of production, enployment, and wages. I use administrative microdata and original data collection via survey experiments. My current work includes several projects on firms and labor markets in Brazil and research on the effects of tariff-rate quotas on importer coordination in Colombia.
 
 ### Working Papers
 
