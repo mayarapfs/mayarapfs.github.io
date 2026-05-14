@@ -22,7 +22,7 @@ The Origins of Structural Transformation, with Julieta Caunedo and Kristina Many
 
 ### Publications
 
-<a href="https://mayarapfs.github.io/papers/favela_preferences_draft.pdf" target="_blank">Employment Preferences of _Favela_ Residents</a>, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. <em>AEA Papers and Proceedings 2026, 116: 156–161</em>. Published version with replication <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20261045" target="_blank"> package</a>.
+<a href="https://mayarapfs.github.io/papers/favela_preferences_draft.pdf" target="_blank">Employment Preferences of _Favela_ Residents</a>, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. <em>AEA Papers and Proceedings 2026, 116: 156–161</em>. Published <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20261045" target="_blank"> data and code</a>.
 
 <a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">video</a>.
 
