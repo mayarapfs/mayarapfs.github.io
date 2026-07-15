@@ -11,8 +11,6 @@ Well-functioning markets are key for economic development. Can policy make marke
 
 ### Working Papers
 
-Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. June 2026. <span style="color:lightblue">_Draft available upon request_.</span>
-
 <a href="https://mayarapfs.github.io/papers/Wage_Transparency_RDD.pdf" target="_blank">Wage Gap Disclosure in the Tropics</a>, with Pablo Castro, Ieda Matavelli and
 Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3923&context=cowles-discussion-paper-series" target="_blank">2517</a>. <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a>.
 
@@ -27,6 +25,8 @@ Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.librar
 <a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">video</a>.
 
 ### Selected work in progress
+
+Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. June 2026. <span style="color:lightblue">_Draft available upon request_.</span>
 
 Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
 
