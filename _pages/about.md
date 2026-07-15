@@ -11,14 +11,14 @@ Well-functioning markets are key for economic development. Can policy make marke
 
 ### Working Papers
 
+Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. June 2026. <span style="color:lightblue">_Draft available upon request_.</span>
+
+<a href="https://mayarapfs.github.io/papers/Wage_Transparency_RDD.pdf" target="_blank">Wage Gap Disclosure in the Tropics</a>, with Pablo Castro, Ieda Matavelli and
+Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3923&context=cowles-discussion-paper-series" target="_blank">2517</a>. <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a>.
+
 <a href="https://mayarapfs.github.io/papers/Felix_JMP_main_updated.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. March 2026. <a href="https://mayarapfs.github.io/papers/Felix_JMP_appendix_updated.pdf" target="_blank">Appendix</a>. NBER paper <a href="https://www.nber.org/papers/w35018" target="_blank">35018</a>. Cowles paper <a href="https://cowles.yale.edu/sites/default/files/2026-04/d2510.pdf">2510</a>. Revise and Resubmit at <em>American Economic Review</em>.
 
 <a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong. August 2025. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. NBER paper <a href="https://www.nber.org/papers/w34172" target="_blank">34172</a>.
-
-<a href="https://mayarapfs.github.io/papers/Wage_Transparency_RDD.pdf" target="_blank">Wage Gap Disclosure in the Tropics</a>, with Pablo Castro, Ieda Matavelli and
-Bobak Pakzad-Hurson. <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a>. April 2026. Cowles paper <a href="https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3923&context=cowles-discussion-paper-series" target="_blank">2517</a>.
-
-Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. June 2026. <span style="color:lightblue">_Draft available upon request_.</span>
 
 ### Publications
 
@@ -31,9 +31,6 @@ Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. Jun
 Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
 
 Admins, Scale, and the Extensive Export Margin, with Rodimiro Rodrigo.
-
-Wage Transparency Within and Across Firms: Experimental Evidence from Brazil, with Ieda Matavelli and
-Bobak Pakzad-Hurson.<small> With Ministry of Planning. Winner of <a href="https://www.povertyactionlab.org/initiative-project/wage-transparency-within-and-across-firms-experimental-evidence-brazil" target="_blank">J-PAL JOI Brasil</a> pilot grant.</small>
 
 ### Teaching
 
