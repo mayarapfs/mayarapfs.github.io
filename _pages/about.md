@@ -26,11 +26,11 @@ Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.librar
 
 ### Selected work in progress
 
+Admins, Scale, and the Extensive Export Margin, with Rodimiro Rodrigo. July 2026. <span style="color:lightblue">_Draft available upon request_.</span>
+
 Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. June 2026. <span style="color:lightblue">_Draft available upon request_.</span>
 
 Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
-
-Admins, Scale, and the Extensive Export Margin, with Rodimiro Rodrigo.
 
 ### Teaching
 
