@@ -26,7 +26,7 @@ Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.librar
 
 ### Selected work in progress
 
-Administrative Workers and Firm Scale-up in Brazil, with Rodimiro Rodrigo. July 2026. <span style="color:lightblue">_Draft available upon request_.</span>
+Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. July 2026. <span style="color:lightblue">_Draft available upon request_.</span>
 
 Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. June 2026. <span style="color:lightblue">_Draft available upon request_.</span>
 
