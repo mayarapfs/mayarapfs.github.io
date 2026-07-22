@@ -11,12 +11,16 @@ Well-functioning markets are key for economic development. Can policy make marke
 
 ### Working Papers
 
-<a href="https://mayarapfs.github.io/papers/Wage_Transparency_RDD.pdf" target="_blank">Wage Gap Disclosure in the Tropics</a>, with Pablo Castro, Ieda Matavelli and
-Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3923&context=cowles-discussion-paper-series" target="_blank">2517</a>. <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a> (Portuguese).
-
 <a href="https://mayarapfs.github.io/papers/Felix_JMP_main_updated.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. March 2026. <a href="https://mayarapfs.github.io/papers/Felix_JMP_appendix_updated.pdf" target="_blank">Appendix</a>. NBER paper <a href="https://www.nber.org/papers/w35018" target="_blank">35018</a>. Cowles paper <a href="https://cowles.yale.edu/sites/default/files/2026-04/d2510.pdf">2510</a>. Revise and Resubmit at <em>American Economic Review</em>.
 
 <a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael B. Wong. August 2025. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. NBER paper <a href="https://www.nber.org/papers/w34172" target="_blank">34172</a>.
+
+<a href="https://mayarapfs.github.io/papers/Wage_Transparency_RDD.pdf" target="_blank">Wage Gap Disclosure in the Tropics</a>, with Pablo Castro, Ieda Matavelli and
+Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3923&context=cowles-discussion-paper-series" target="_blank">2517</a>. <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a> (Portuguese).
+
+Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. July 2026. <span style="color:lightblue">_Draft available upon request_.</span>
+
+Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. June 2026. <span style="color:lightblue">_Draft available upon request_.</span>
 
 ### Publications
 
@@ -25,10 +29,6 @@ Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.librar
 <a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Appendix</a>. <em>American Economic Review </em> 2021, 111 (12): 3827-71. Summary <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">video</a>.
 
 ### Selected work in progress
-
-Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. July 2026. <span style="color:lightblue">_Draft available upon request_.</span>
-
-Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. June 2026. <span style="color:lightblue">_Draft available upon request_.</span>
 
 Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
 
