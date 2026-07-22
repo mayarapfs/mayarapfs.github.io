@@ -16,7 +16,7 @@ Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.librar
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP_main_updated.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. March 2026. <a href="https://mayarapfs.github.io/papers/Felix_JMP_appendix_updated.pdf" target="_blank">Appendix</a>. NBER paper <a href="https://www.nber.org/papers/w35018" target="_blank">35018</a>. Cowles paper <a href="https://cowles.yale.edu/sites/default/files/2026-04/d2510.pdf">2510</a>. Revise and Resubmit at <em>American Economic Review</em>.
 
-<a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael Wong. August 2025. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. NBER paper <a href="https://www.nber.org/papers/w34172" target="_blank">34172</a>.
+<a href="https://mayarapfs.github.io/papers/Outsourcing_main.pdf" target="_blank">Outsourcing, Labor Market Frictions, and Employment</a>, with Michael B. Wong. August 2025. <a href="https://mayarapfs.github.io/papers/Outsourcing_appendix.pdf" target="_blank">Appendix</a>. NBER paper <a href="https://www.nber.org/papers/w34172" target="_blank">34172</a>.
 
 ### Publications
 
