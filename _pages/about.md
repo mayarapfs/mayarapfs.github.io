@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-Research in Development, Trade, Labor.
+I study how international trade and pro-market reforms shape firm behavior and labor markets in Latin America.
 
 ### Working Papers
 
@@ -20,11 +20,11 @@ Research in Development, Trade, Labor.
 <a href="https://mayarapfs.github.io/papers/Wage_Transparency_RDD.pdf" target="_blank">Wage Gap Disclosure in the Tropics</a>, with Pablo Castro, Ieda Matavelli and
 Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3923&context=cowles-discussion-paper-series" target="_blank">2517</a>. <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a> (Portuguese).
 
-### Selected work in progress
-
 Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. June 2026. <span style="color:lightblue">_Draft available upon request_.</span>
 
 Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. July 2026. <span style="color:lightblue">_Draft available upon request_.</span>
+
+### Selected work in progress
 
 Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
 
