@@ -11,7 +11,7 @@ redirect_from:
 Well-functioning markets are key for economic development. Can policy make markets work better? I study firm responses to trade policy and other sector/firm-targeting reforms in emerging markets, and how this response shapes the organization of production, employment, and wages. I use administrative microdata and original data collection via survey experiments. My current work includes several projects on firms and labor markets in Brazil and research on the effects of tariff-rate quotas on importer coordination in Colombia.
 -->
 
-I research how international trade and market reforms shape firm behavior and labor markets in Latin America. I joined Yale as an Assistant Professor of Economics and Global Affairs in 2024. I received a PhD in Economics from MIT in 2021.
+I research how international trade and market reforms shape economic development in Latin America. I joined Yale as an Assistant Professor of Economics and Global Affairs in 2024. I received a PhD in Economics from MIT in 2021.
 
 ### Working Papers
 
