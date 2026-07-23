@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-I study how international trade and pro-market reforms shape firm behavior and labor markets in Latin America.
+I study how trade and pro-market reforms shape firm behavior and labor markets in Latin America.
 
 ### Working Papers
 
