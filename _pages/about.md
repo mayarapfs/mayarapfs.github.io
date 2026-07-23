@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-Research in Development, Trade, Labor. I joined Yale as an Assistant Professor of Economics and Global Affairs in 2024 and received a PhD in Economics from MIT in 2021.
+Research in Development, Trade, Labor. I joined Yale as an Assistant Professor in 2024 and received a PhD in Economics from MIT in 2021.
 
 ### Working Papers
 
