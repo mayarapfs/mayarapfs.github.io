@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-I study how trade and pro-market reforms shape economic development, with a focus on firms workers in Latin America.
+I study how trade and market reforms reshape the organization of firms and work in Latin America.
 
 ### Working Papers
 
