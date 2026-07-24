@@ -18,7 +18,7 @@ I study how trade and pro-market reforms shape firm behavior and labor markets i
 <a href="https://mayarapfs.github.io/papers/Outsourcing_Displacement.pdf" target="_blank">The Displacement Efects of Domestic Outsourcing</a>, with Michael B. Wong. July 2026.
 
 <a href="https://mayarapfs.github.io/papers/Wage_Transparency_RDD.pdf" target="_blank">Wage Gap Disclosure in the Tropics</a>, with Pablo Castro, Ieda Matavelli and
-Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3923&context=cowles-discussion-paper-series" target="_blank">2517</a>. <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a> (Portuguese).
+Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3923&context=cowles-discussion-paper-series" target="_blank">2517</a>. <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a>
 
 Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. June 2026. <span style="color:lightblue">_Draft available upon request_.</span>
 
