@@ -22,11 +22,11 @@ Bobak Pakzad-Hurson. April 2026. Cowles paper <a href="https://elischolar.librar
 
 ### Selected work in progress
 
-Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. June 2026. <span style="color:lightblue">_Draft available upon request_.</span>
+Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. June 2026. <span style="color:lightblue">_Draft available_.</span>
 
-Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. July 2026. <span style="color:lightblue">_Draft available upon request_.</span>
+Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. July 2026. <span style="color:lightblue">_Draft available_.</span>
 
-Racing for Rents: Allocation by Arrival and the Organization of Trade, with Santiago Fernández-Chacón, Jorge Florez and Diego Jiménez-Hernández.
+Racing for Rents: Allocation by Arrival and the Organization of Trade, with Santiago Fernández-Chacón, Jorge Florez and Diego Jiménez-Hernández. <span style="color:lightblue">_Draft available_.</span>
 
 ### Publications
 
