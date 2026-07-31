@@ -26,7 +26,7 @@ Constructing Structural Change, with Julieta Caunedo and Kristina Manysheva. Jun
 
 Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. July 2026. <span style="color:lightblue">_Draft available upon request_.</span>
 
-Coordination Incentives of Tariff-Rate Quotas, with Jorge Florez-Acosta and Diego Jiménez-Hernández.
+Racing for Rents: Allocation by Arrival and the Organization of Trade, with Santiago Fernández-Chacón, Jorge Florez and Diego Jiménez-Hernández.
 
 ### Publications
 
