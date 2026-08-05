@@ -36,7 +36,7 @@ Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. <span style="
 
 ### Teaching
 
-ECON 7703: Empirical Trade and Development. PhD elective.
+ECON 7703: Empirical Trade and Development. PhD.
 
 ECON 3380 / GLBL 4102 / EP&E 4314: Emerging Markets. Undergraduate.
 
