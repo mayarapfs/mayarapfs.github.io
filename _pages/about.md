@@ -9,7 +9,7 @@ redirect_from:
 
 I study how international trade and market reforms reshape the organization of firms and work in Latin America.
 
-### Working papers
+### Working Papers
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP_main_updated.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. Resubmitted to <em>American Economic Review</em>. NBER paper <a href="https://www.nber.org/papers/w35018" target="_blank">35018</a>. <a href="https://mayarapfs.github.io/papers/Felix_JMP_appendix_updated.pdf" target="_blank">Appendix</a>. 
 
