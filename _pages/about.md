@@ -9,7 +9,7 @@ redirect_from:
 
 I study how international trade and market reforms reshape the organization of firms and work in Latin America.
 
-### Working Papers
+### Working papers
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP_main_updated.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. Resubmitted to <em>American Economic Review</em>. NBER paper <a href="https://www.nber.org/papers/w35018" target="_blank">35018</a>. <a href="https://mayarapfs.github.io/papers/Felix_JMP_appendix_updated.pdf" target="_blank">Appendix</a>. 
 
@@ -17,12 +17,12 @@ I study how international trade and market reforms reshape the organization of f
 
 <a href="https://mayarapfs.github.io/papers/Outsourcing_Displacement_main.pdf" target="_blank">The Displacement Effects of Domestic Outsourcing</a>, with Michael B. Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_Displacement_appendix.pdf" target="_blank">Appendix</a>.
 
+### Selected work in progress
+
 <a href="https://mayarapfs.github.io/papers/Constructing_Structural_Change.pdf" target="_blank">Constructing Structural Change</a>, with Julieta Caunedo and Kristina Manysheva.
 
 <a href="https://mayarapfs.github.io/papers/Wage_Transparency_RDD.pdf" target="_blank">Wage Gap Disclosure in the Tropics</a>, with Pablo Castro, Ieda Matavelli and
 Bobak Pakzad-Hurson. Cowles paper <a href="https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3923&context=cowles-discussion-paper-series" target="_blank">2517</a>. <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a>
-
-### Selected work in progress
 
 Racing for Rents: Allocation by Arrival and the Organization of Trade, with Santiago Fernández-Chacón, Jorge Florez and Diego Jiménez-Hernández. <span style="color:lightblue">_Draft available_.</span>
 
