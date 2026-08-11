@@ -13,9 +13,9 @@ I study how international trade and market reforms reshape the organization of f
 
 <a href="https://mayarapfs.github.io/papers/Felix_JMP_main_updated.pdf" target="_blank">Trade, Labor Market Concentration, and Wages</a>. Resubmitted to <em>American Economic Review</em>. NBER paper <a href="https://www.nber.org/papers/w35018" target="_blank">35018</a>. <a href="https://mayarapfs.github.io/papers/Felix_JMP_appendix_updated.pdf" target="_blank">Appendix</a>. 
 
-<a href="https://mayarapfs.github.io/papers/Outsourcing_Young_Entry_main.pdf" target="_blank">Domestic Outsourcing and Young-worker Entry into the Formal Sector</a>, with Michael B. Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_Young_Entry_appendix.pdf" target="_blank">Appendix</a>. NBER paper  <a href="https://www.nber.org/papers/w34172" target="_blank">34172</a>.
+<a href="https://mayarapfs.github.io/papers/Outsourcing_Young_Entry_main.pdf" target="_blank">Domestic Outsourcing and Young-worker Entry into the Formal Sector</a>, with Michael B. Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_Young_Entry_appendix.pdf" target="_blank">Appendix</a>. NBER paper <a href="https://www.nber.org/papers/w34172" target="_blank">34172</a>.
 
-<a href="https://mayarapfs.github.io/papers/Outsourcing_Displacement_main.pdf" target="_blank">The Displacement Effects of Domestic Outsourcing</a>, with Michael B. Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_Displacement_appendix.pdf" target="_blank">Appendix</a>. NBER paper <a>href="https://www.nber.org/papers/w35584" target="_blank">35584</a>.
+<a href="https://mayarapfs.github.io/papers/Outsourcing_Displacement_main.pdf" target="_blank">The Displacement Effects of Domestic Outsourcing</a>, with Michael B. Wong. <a href="https://mayarapfs.github.io/papers/Outsourcing_Displacement_appendix.pdf" target="_blank">Appendix</a>. NBER paper <a href="https://www.nber.org/papers/w35584" target="_blank">35584</a>. 
 
 ### Selected work in progress
 
