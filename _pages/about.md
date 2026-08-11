@@ -24,9 +24,9 @@ Bobak Pakzad-Hurson. Cowles paper <a href="https://elischolar.library.yale.edu/c
 
 ### Selected work in progress
 
-Racing for Rents: Allocation by Arrival and the Organization of Trade, with Santiago Fernández-Chacón, Jorge Florez and Diego Jiménez-Hernández. <span style="color:lightblue">_Draft available_.</span>
+Racing for Rents: Allocation by Arrival and the Organization of Trade, with Santiago Fernández-Chacón, Jorge Florez and Diego Jiménez-Hernández.
 
-Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. <span style="color:lightblue">_Draft available_.</span>
+Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo.
 
 ### Publications
 
