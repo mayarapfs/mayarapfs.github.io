@@ -28,6 +28,8 @@ Racing for Rents: Allocation by Arrival and the Organization of Trade, with Sant
 
 Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. <span style="color: #4A90C2;">Draft available.</span>
 
+Do the Poor Want Formal Jobs? Job Amenities, Rationing, and Self-Employment in Brazil, with Beatriz Marcoje and Ieda Matavelli.
+
 ### Publications
 
 <a href="https://mayarapfs.github.io/papers/favela_preferences_main.pdf" target="_blank">Employment Preferences of _Favela_ Residents</a>, with Beatriz Marcoje, Ieda Matavelli, and Maria Clara Rodrigues. <em>AEA Papers and Proceedings 2026, 116: 156–161</em>. <a href="https://mayarapfs.github.io/papers/favela_preferences_appendix.pdf" target="_blank">Appendix</a>. <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20261045" target="_blank"> Data and code</a>.
