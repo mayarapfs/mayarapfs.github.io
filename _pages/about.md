@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-I study how international trade and market reforms reshape the organization of firms and work in emerging markets.
+I study how international trade and market reforms reshape the organization of firms and work in emerging markets, with a focus on Latin America.
 
 ### Working Papers
 
