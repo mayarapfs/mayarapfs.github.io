@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-I study how international trade and market reforms reshape the organization of firms and work in emerging markets, with a focus on Latin America.
+I study how international trade and market reforms reshape the organization of firms and work in Latin America.
 
 ### Working Papers
 
@@ -24,11 +24,9 @@ Bobak Pakzad-Hurson. Cowles paper <a href="https://elischolar.library.yale.edu/c
 
 <a href="https://mayarapfs.github.io/papers/Constructing_Structural_Change.pdf" target="_blank">Constructing Structural Change</a>, with Julieta Caunedo and Kristina Manysheva.
 
-Racing for Rents: Allocation by Arrival and the Organization of Trade, with Santiago Fernández-Chacón, Jorge Florez and Diego Jiménez-Hernández. <span style="color: #4A90C2;">Draft available.</span>
-
 Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. <span style="color: #4A90C2;">Draft available.</span>
 
-Do the Poor Want Formal Jobs? Job Amenities, Rationing, and Self-Employment in Brazil, with Beatriz Marcoje and Ieda Matavelli.
+Racing for Rents: Allocation by Arrival and the Organization of Trade, with Santiago Fernández-Chacón, Jorge Florez and Diego Jiménez-Hernández.
 
 ### Publications
 
