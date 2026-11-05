@@ -20,9 +20,9 @@ I study how international trade and market reforms reshape the organization of f
 <a href="https://mayarapfs.github.io/papers/Wage_Transparency_RDD.pdf" target="_blank">Wage Gap Disclosure in the Tropics</a>, with Pablo Castro, Ieda Matavelli and
 Bobak Pakzad-Hurson. Cowles paper <a href="https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3923&context=cowles-discussion-paper-series" target="_blank">2517</a>. <a href="https://mayarapfs.github.io/papers/relatorio-de-avaliacao-lei-igualdade-salarial.pdf" target="_blank">Policy brief</a>
 
-### Selected work in progress
-
 <a href="https://mayarapfs.github.io/papers/Constructing_Structural_Change.pdf" target="_blank">Constructing Structural Change</a>, with Julieta Caunedo and Kristina Manysheva.
+
+### Selected work in progress
 
 Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. <span style="color: #4A90C2;">Draft available.</span>
 
