@@ -22,9 +22,9 @@ Bobak Pakzad-Hurson. Cowles paper <a href="https://elischolar.library.yale.edu/c
 
 <a href="https://mayarapfs.github.io/papers/Constructing_Structural_Change.pdf" target="_blank">Constructing Structural Change</a>, with Julieta Caunedo and Kristina Manysheva.
 
-### Selected work in progress
+<a href="https://mayarapfs.github.io/papers/Support and Scale_260902.pdf" target="_blank">Office Support and Firm Scale-up in Brazil</a>, with Rodimiro Rodrigo.
 
-Office Support and Firm Scale-up in Brazil, with Rodimiro Rodrigo. <span style="color: #4A90C2;">Draft available.</span>
+### Selected work in progress
 
 Racing for Rents: Allocation by Arrival and the Organization of Trade, with Santiago Fernández-Chacón, Jorge Florez and Diego Jiménez-Hernández. <span style="color: #4A90C2;">Draft available.</span>
 
