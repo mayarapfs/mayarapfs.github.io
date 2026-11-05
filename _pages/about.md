@@ -42,9 +42,9 @@ ECON 3380 / GLBL 4102 / EP&E 4314: Emerging Markets. Undergraduate.
 
 ### Selected media
 
-NPR Planet Money <a href="https://www.npr.org/2026/05/22/nx-s1-5831786/brazil-manaus-middle-income-blueprint" target="_blank">The giant factory town that might be a giant mistake</a>. May 2026.
+NPR Planet Money: <a href="https://www.npr.org/2026/05/22/nx-s1-5831786/brazil-manaus-middle-income-blueprint" target="_blank">The giant factory town that might be a giant mistake</a>. May 2026.
 
-InequaliTalks <a href="https://inequalitalks.fireside.fm/34" target="_blank">The effect of trade on wages</a>. June 2023.
+InequaliTalks: <a href="https://inequalitalks.fireside.fm/34" target="_blank">The effect of trade on wages</a>. June 2023.
 
 ### Older Research
 
