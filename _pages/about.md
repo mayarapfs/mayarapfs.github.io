@@ -22,7 +22,7 @@ Bobak Pakzad-Hurson. Cowles paper <a href="https://elischolar.library.yale.edu/c
 
 <a href="https://mayarapfs.github.io/papers/Constructing_Structural_Change.pdf" target="_blank">Constructing Structural Change</a>, with Julieta Caunedo and Kristina Manysheva.
 
-<a href="https://mayarapfs.github.io/papers/Support and Scale_260902.pdf" target="_blank">Office Support and Firm Scale-up in Brazil</a>, with Rodimiro Rodrigo.
+<a href="https://mayarapfs.github.io/papers/Support and Scale_2611.pdf" target="_blank">Office Support and Firm Scale-up in Brazil</a>, with Rodimiro Rodrigo.
 
 ### Selected work in progress
 
