@@ -42,7 +42,7 @@ ECON 3380 / GLBL 4102 / EP&E 4314: Emerging Markets. Undergraduate.
 
 ### Keynotes
 
-Sep 2026. Conferencia sobre empleo y formalidad, El Colegio de México. <a href="https://mayarapfs.github.io/papers/Keynote_SupplySide_2026.pdf" target="_blank">The Labor Supply Side of Informality</a>.
+Conferencia sobre empleo y formalidad, El Colegio de México. <a href="https://mayarapfs.github.io/papers/Keynote_SupplySide_2026.pdf" target="_blank">The Labor Supply Side of Informality</a>. Sep 2026.
 
 ### Selected media
 
