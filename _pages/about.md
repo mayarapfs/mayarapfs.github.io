@@ -36,7 +36,7 @@ Racing for Rents: Allocation by Arrival and the Organization of Trade, with Sant
 
 ### Keynotes
 
-Sep 2026. Conferencia sobre empleo y formalidad, El Colegio de México. <a href="https://mayarapfs.github.io/papers/Keynote_SupplySide_2026" target="_blank">The Labor Supply Side of Informality</a>.
+Sep 2026. Conferencia sobre empleo y formalidad, El Colegio de México. <a href="https://mayarapfs.github.io/papers/Keynote_SupplySide_2026.pdf" target="_blank">The Labor Supply Side of Informality</a>.
 
 ### Teaching
 
