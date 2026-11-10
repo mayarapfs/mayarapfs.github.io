@@ -34,6 +34,10 @@ Racing for Rents: Allocation by Arrival and the Organization of Trade, with Sant
 
 <a href="https://mayarapfs.github.io/papers/MTO_ms_AER.pdf" target="_blank">Tax Administration versus Tax Rates: Evidence from Corporate Taxation in Indonesia</a>, with M. Chatib Basri, Rema Hanna, and Benjamin Olken. <em>American Economic Review </em> 2021, 111 (12): 3827-71. <a href="https://mayarapfs.github.io/papers/MTO_appendix.pdf" target="_blank">Appendix</a>. Summary <a href="https://www.youtube.com/watch?v=g7uTn51kI14" target="_blank">video</a>.
 
+### Keynotes
+
+Sep 2026. Conferencia sobre empleo y formalidad, El Colegio de México. <a href="https://mayarapfs.github.io/papers/Keynote_SupplySide_2026" target="_blank">The Labor Supply Side of Informality</a>.
+
 ### Teaching
 
 ECON 7703: Empirical Trade and Development. PhD.
